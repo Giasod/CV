@@ -1,0 +1,53 @@
+body {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+}
+
+.row {
+    margin: 0 ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid grey;
+}
+
+.row:after {
+    clear: both;
+    content: " ";
+    display: block;
+}
+
+.col {
+    box-sizing: border-box;
+    float: left;
+    padding: 0 10px;
+}
+
+.col-100 {
+    width: 100%;
+}
+
+.col-75 {
+    width: 75%;
+}
+
+.col-25 {
+    width: 25%;
+}
+
+.photo {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.mb-2 {
+    margin-bottom: 20px;
+}
+
+.mt {
+    margin-top: 3em;
+}

@@ -1,0 +1,31 @@
+h1 {
+    font-size: 46px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 26px;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3 {
+    font-size: 26px;
+    margin-bottom: 7px;
+}
+
+p {
+    margin: 10px;
+}
+
+.p-large {
+    margin-top: 25px;
+}
+
+.p-center {
+    text-align: center;
+}
+
+li {
+    margin: 7px;
+}
