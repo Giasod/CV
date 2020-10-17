@@ -15,6 +15,10 @@ body {
     border-bottom: 1px solid grey;
 }
 
+.no_under {
+    border-bottom: none;
+}
+
 .row:after {
     clear: both;
     content: " ";
@@ -33,6 +37,14 @@ body {
 
 .col-75 {
     width: 75%;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.col-33 {
+    width: 33.33%;
 }
 
 .col-25 {
