@@ -30,6 +30,10 @@ li {
     margin: 7px;
 }
 
+.li-no-style {
+    list-style: none;
+}
+
 .text-center {
     text-align: center;
 }
